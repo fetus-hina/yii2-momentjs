@@ -13,7 +13,7 @@
     "prefer-stable": true,
     "require": {
         "bower-asset/moment": "~2.10",
-        "bower-asset/moment-timezone": "~0.4.0",
+        "bower-asset/moment-timezone": "~0.5.0",
         "yiisoft/yii2": "*"
     },
     "autoload": {
